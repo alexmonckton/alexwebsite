@@ -31,7 +31,7 @@ steps:
     pip install flask
   displayName: 'Install dependencies'
 
-- #script: |
+  #script: |
    # pip install pytest pytest-azurepipelines
   #  pytest
   #displayName: 'pytest'
